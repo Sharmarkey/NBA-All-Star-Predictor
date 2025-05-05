@@ -1,5 +1,20 @@
-# NBA HIGH SCORER PREDICTOR
-This repository contains a Jupyter Notebook that builds and evaluates binary classification models (logistic regression and random forest) to predict whether an NBA player-season will be a ‘high scorer’ based on per-game statistics. It includes end-to-end data cleaning and parsing, feature scaling, 5‑fold cross‑validation, ROC/AUROC analysis, feature importance insights, and a brief look at ethical considerations in sports analytics
+# NBA High‑Scorer Predictor
 
+> A hands‑on machine‑learning project that guesses which NBA player‑seasons rank among the league’s top scorers, using only per‑game stats.
 
-#Contributors: Sharmarke Nur and Osman Abdiqadir
+This repo includes a single Jupyter Notebook that:
+
+- **Loads & cleans** 1980–2022 NBA per‑game data  
+- **Parses & engineers** features (e.g. minutes played → decimals)  
+- **Scales** stats for fair comparisons  
+- Trains **Logistic Regression** & **Random Forest** classifiers  
+- Evaluates with **5‑fold cross‑validation** and **ROC/AUROC** analysis  
+- Ranks **feature importance** to reveal what really drives high scoring  
+- Wraps up with **ethical considerations** in sports analytics
+
+---
+
+## Contributors
+
+- **Sharmarke Nur** — Data prep, modeling  
+- **Osman Abdiqadir** — Evaluation, presentation & ethics  
