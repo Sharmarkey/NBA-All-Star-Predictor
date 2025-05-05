@@ -16,5 +16,5 @@ This repo includes a single Jupyter Notebook that:
 
 ## Contributors
 
-- **Sharmarke Nur** — Data prep, modeling  
-- **Osman Abdiqadir** — Evaluation, presentation & ethics  
+- **Sharmarke Nur** 
+- **Osman Abdiqadir** 
